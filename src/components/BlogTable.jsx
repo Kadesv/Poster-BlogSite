@@ -44,7 +44,7 @@ export default function BlogList({ initialBlogList }) {
     return (
         <>
             <div className="blogDiv">
-                <h1>My simple App</h1>
+                <h1>Poster</h1>
                 <BlogAddButton onClick={addBlog} />
             </div>
             <div>
